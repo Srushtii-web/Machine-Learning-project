@@ -13,7 +13,7 @@ By leveraging the `CountVectorizer` and `MultinomialNB` from Scikit-learn, the p
 
 ## 📂 Dataset
 
-- **Source:** `athlete_events.csv.zip`
+- **Source:** `athlete_events.xlsx`
 - The dataset contains historical records of Olympic athletes and their respective events and sports.
 
 **Important columns used:**
