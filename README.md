@@ -13,7 +13,7 @@ By leveraging the `CountVectorizer` and `MultinomialNB` from Scikit-learn, the p
 
 ## 📂 Dataset
 
-- **Source:** `athlete_events.xlsx`
+- **Source:** `https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results`
 - The dataset contains historical records of Olympic athletes and their respective events and sports.
 
 **Important columns used:**
