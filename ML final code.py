@@ -5,7 +5,7 @@ from sklearn.naive_bayes import MultinomialNB
 from sklearn.metrics import accuracy_score, classification_report
 import matplotlib.pyplot as plt
 
-data = pd.read_csv('athlete_events.csv.zip')
+data = pd.read_csv('athlete_events.xlsx')
 print("Dataset loaded successfully!")
 print("Shape:", data.shape)
 print(data[['Event', 'Sport']].head())
@@ -61,4 +61,5 @@ plt.text(
 
 plt.tight_layout()
 plt.show()
+
 
